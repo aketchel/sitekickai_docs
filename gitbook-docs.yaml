@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Sitekick Documentation
+  structure:
+    - type: space
+      key: space-1
+      title: Sitekick Documentation
+      path: sitekick-documentation
+      default: true
+      content:
+        directory: ./sitekick-documentation
