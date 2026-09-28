@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Sitekick AI Studio](README.md)
+* [Getting Started](getting-started/README.md)
+    * [Start your first brief](getting-started/start-your-first-brief.md)
+    * [What happens after you submit a brief](getting-started/what-happens-after-your-brief.md)
+* [Reviewing Your Site](review/README.md)
+    * [Reviewing the AI draft](review/reviewing-the-ai-draft.md)
+    * [Requesting changes](review/requesting-changes.md)
+* [Publishing](publishing/README.md)
+    * [Using your own domain](publishing/custom-domains.md)
+* [Site Care](care/README.md)
+    * [Care sweeps and quality reports](care/care-sweeps-and-quality-reports.md)
+* [Plans and Billing](plans/README.md)
+* [Sitekick AI CMS and Studio](products/README.md)
+    * [Choosing between Sitekick AI CMS and Studio](products/choosing-between-cms-and-studio.md)
+    * [Moving from Sitekick AI CMS to Studio](products/moving-from-cms-to-studio.md)
