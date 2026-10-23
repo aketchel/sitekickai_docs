@@ -1,28 +1,12 @@
 ---
-description: >-
-  Sitekick AI CMS and Sitekick AI Studio are two products from one company.
-  Here is how they relate and which one is right for you.
+description: Current Sitekick CMS capabilities and the status of the future Studio product.
 ---
 
 # Sitekick AI CMS and Studio
 
-Sitekick makes two products:
+**Sitekick CMS** is the deployed WordPress website product. It supports AI creation and ongoing conversational editing, reviewable drafts, coordinated whole-site candidates and advanced editing tools. Start with [the CMS guides](https://docs.sitekick.ai/working-with-our-ai-site-editor).
 
-- **Sitekick AI Studio** — the next generation. You describe your business,
-  AI builds the site, and Studio keeps improving it after launch.
-- **Sitekick AI CMS** — the hands-on original. You generate a site and shape
-  every page yourself in a visual editor.
-
-Both are Sitekick. They share a focus on small businesses and the people who
-serve them, and you can use either with confidence — but they are built for
-different ways of working.
-
-This section helps you tell them apart and, if you are starting on one,
-decide whether the other fits better:
+**Sitekick Studio** custom applications remain unlaunched and inactive. A marketing page, waitlist or implementation code does not make Studio a live customer product. Studio guides in this section describe a proposed experience and do not establish current availability or billing entitlements.
 
 - [Choosing between Sitekick AI CMS and Studio](choosing-between-cms-and-studio.md)
 - [Moving from Sitekick AI CMS to Studio](moving-from-cms-to-studio.md)
-
-For hands-on product documentation — editing pages, the design editor,
-languages, analytics, and SEO — see the
-[Sitekick AI CMS documentation](https://sitekick.ai/docs).

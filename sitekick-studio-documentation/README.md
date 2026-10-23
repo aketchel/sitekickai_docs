@@ -1,40 +1,19 @@
 ---
-description: >-
-  Welcome to the Sitekick AI Studio documentation. Studio turns a short brief
-  into a modern website and keeps improving it after launch.
+description: Studio custom applications remain unlaunched; find current conversational editing help in Sitekick CMS.
 ---
 
 # Sitekick AI Studio
 
-Welcome to the Sitekick AI Studio documentation.
+**Studio custom applications are not launched and remain inactive.** Marketing pages, waitlist signup and implementation code do not establish an active customer product or paid Studio account.
 
-Sitekick AI Studio is the next generation of Sitekick. Instead of building a
-site page by page, you describe your business in a short brief, and Studio
-drafts the copy, structure, and design for you. After launch, Studio keeps
-working on the site for you — reviewing it, suggesting improvements, and
-helping you keep it current.
+The Studio articles below describe a proposed experience. They are retained for reference and should not be followed as live setup, publication or billing instructions until availability is announced.
 
-## How Studio works
+For shipped conversational website editing, use [Sitekick CMS](https://docs.sitekick.ai/working-with-our-ai-site-editor/your-sitekick-conversations). CMS supports saved conversations, reviewable drafts, page alternatives, whole-site projects and advanced visual and WordPress tools. [CMS MCP editing](https://docs.sitekick.ai/working-with-our-ai-site-editor/mcp-editing) has separate setup and permission requirements.
 
-1. **Start a brief.** Describe your business, your customers, and what the
-   site needs to do.
-2. **Review the draft.** Studio assembles the pages, writes the copy, and
-   designs the first version.
-3. **Shape it with plain language.** Ask for changes the way you would tell
-   a colleague — no editor skills required.
-4. **Publish and keep it healthy.** Launch on a Sitekick site or your own
-   domain, and let care sweeps keep the site in good shape over time.
+## About the proposed Studio experience
 
-## Where to go next
-
-- New to Studio? Start with [Getting Started](getting-started/README.md).
-- Already have a draft? See [Reviewing Your Site](review/README.md).
-- Ready to launch? See [Publishing](publishing/README.md).
-- Want to know what happens after launch? See [Site Care](care/README.md).
-
-## Sitekick AI CMS and Studio
-
-Sitekick makes two products. Studio is for people who want the site built and
-managed for them. Sitekick AI CMS is the hands-on original — a visual editor
-where you shape every page yourself. For a side-by-side comparison, see
-[Sitekick AI CMS and Studio](products/README.md).
+- [Getting Started](getting-started/README.md)
+- [Reviewing Your Site](review/README.md)
+- [Publishing](publishing/README.md)
+- [Site Care](care/README.md)
+- [Sitekick AI CMS and Studio](products/README.md)

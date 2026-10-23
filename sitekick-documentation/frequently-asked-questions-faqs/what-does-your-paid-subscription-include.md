@@ -1,10 +1,7 @@
 # What does your paid subscription include?
 
-The Sitekick AI subscription includes the following:
+Your account's current plan and billing screen are the source for website slots, credits, allowances and included features. CMS offers website generation, ongoing conversational editing, drafts and review, with advanced WordPress tools according to the installation and your permissions.
 
-* Unlimited projects
-* Unlimited generations
-* AI Site & Design Editor on Mobile or Desktop
-* Full E-commerce Capabilities
-* Multi-page website creation with the option to create a blog
-* Hosting for 1, 3, or 10 websites, depending on the plan you choose \*\*
+Planning and generation use credits. Review the estimate before starting work and inspect **Usage** for reservations and charges. Do not assume older descriptions of unlimited generations apply to every current account or workflow. Website creation requires an available slot; active access and permissions are checked when work is requested.
+
+A CMS subscription does not by itself establish that an external assistant can connect. [CMS MCP editing](../working-with-our-ai-site-editor/mcp-editing.md) requires a configured service, supported registered client and authorization. Ask support to confirm account and client availability before changing plans for this purpose. Studio custom applications remain unlaunched; a Studio waitlist is not an active paid Studio account.
