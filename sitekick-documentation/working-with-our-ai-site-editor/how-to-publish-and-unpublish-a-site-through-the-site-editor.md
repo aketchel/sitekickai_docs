@@ -1,37 +1,21 @@
 ---
-description: In this guide, you will learn how to unpublish a site.
+description: Review and explicitly publish a CMS draft or release, and distinguish page visibility from whole-site publication.
 ---
 
 # How to Publish and Unpublish a Site through the Site Editor?
 
-#### 🌍 How to Publish and Unpublish a Site
+Saving a proposal or draft does not automatically publish a new website. Applying an approved edit to an already published page can update that page immediately.
 
-**Publishing your site** makes it live and accessible to the public. **Unpublishing** it removes it from public view but keeps your content safe for later editing or relaunch.
+## Publish a page or reviewed alternative
 
-***
+Open the saved result in **Activity** or the page's **Changes** view. For a new saved draft, use **Preview for publication**, inspect it and choose **Publish changes** where offered. For an alternative, use **Compare changes**, inspect the **Original** and **Draft** WordPress previews, then approve the action shown for the original's current publication status.
 
-**✅ How to Publish Your Site**
+You can also use **Advanced editor** to review and publish in Elementor. Follow [Review, publish and recover changes](review-publish-and-recover.md) for the current controls and recovery limits.
 
-1. **Log in to the Site Editor**.
-2. On the **left-hand menu**, click on **Sites**.
-3. Find the site you want to publish.
-4. Hover over the site and click **Manage Site**.
-5. Click the **Publish** button.
-6. You’ll see a confirmation that your site is now live.
+## Publish a whole-site candidate
 
-> 🔗 Once published, your site will be available at your custom domain or the temporary `.sitekick.ai` subdomain.
+In **Whole-site projects**, open the private preview, choose **Review publication**, inspect the exact release, then **Approve this exact release** and **Publish approved release**. See [Whole-site projects](whole-site-projects.md).
 
-***
+## Change visibility
 
-**🚫 How to Unpublish Your Site**
-
-1. Go to your **Site Editor**.
-2. Click on **Sites** from the menu.
-3. Locate the site you want to unpublish and click **Manage Site**.
-4. Select the **Settings** tab.
-5. Scroll down to **Visibility** or **Status** settings.
-6. Toggle the setting to **Private**, **Unpublished**, or **Maintenance Mode** (depending on your setup).
-7. Save changes.
-
-> ⚠️ Your visitors will no longer see the website. It will show as unavailable until you publish it again.
-
+Use the page's advanced WordPress settings or the visibility controls actually provided by your installed editor to change its publication status. Review affected URLs afterward. Unpublishing one page does not necessarily hide other pages or the entire website, and is separate from cancelling billing, deleting a website or rolling back a release. If you need the whole website taken offline and no site-wide control is available to your account, ask support for the appropriate procedure.

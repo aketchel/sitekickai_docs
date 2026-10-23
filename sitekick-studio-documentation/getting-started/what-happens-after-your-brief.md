@@ -7,6 +7,9 @@ description: >-
 
 # What happens after you submit a brief
 
+> **Studio is not launched.** These pages describe a proposed Studio experience, not an active customer product. Custom applications and the workflows below are unavailable until announced. For shipped conversational website editing, use [Sitekick CMS](https://docs.sitekick.ai/working-with-our-ai-site-editor/your-sitekick-conversations).
+
+
 When you submit your brief, Sitekick AI Studio gets to work on a first draft
 of your site.
 

@@ -1,9 +1,9 @@
 # Can I Edit Multiple Projects?
 
-Definitely! Your Sitekick AI Subscription includes unlimited projects, unlimited generations, hosting, and access to our AI Site Editor and Design Editor.
+Yes. You can work on multiple authorized websites and saved projects within your account's current plan, website-slot limits and credit allowance.
 
-This means that you can create and generate unlimited projects and also EDIT multiple projects using our advanced editor!
+Choose the intended website explicitly before editing. A conversation belongs to its current website, and an already started job keeps its original target even if you switch the website selector.
 
 
 
-NOTE: If you'd like to host more than 1 website be sure to upgrade to the Basic to host up to 3 sites or our Pro plan to host up to 10 sites.
+Check your account billing screen for current website slots and **Usage** for generation reservations and charges. See [Work with Your Sitekick](../working-with-our-ai-site-editor/your-sitekick-conversations.md) and [Whole-site projects](../working-with-our-ai-site-editor/whole-site-projects.md) for the current editing flows.

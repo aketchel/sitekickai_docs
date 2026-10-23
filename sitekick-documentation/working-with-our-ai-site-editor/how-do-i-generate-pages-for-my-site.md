@@ -1,22 +1,15 @@
 ---
-description: >-
-  In this guide, you will learn how you can use our Page Generator to generate
-  individual pages for your site such as "About Us", "FAQ" and "Products" or
-  "Services".
+description: Create individual CMS pages and review their drafts before publication.
 ---
 
 # How do I generate pages for my site?
 
-With the Sitekick AI Site Editor, you can generate individial pages for your site in additional to a Home Page or Landing page. To generate pages such as "About Us", "FAQ", etc. please follow the steps below.
+1. Open the intended website in [Sitekick CMS](https://cms.sitekick.ai/).
+2. Open **Pages** and choose **Create a page**, or ask **Your Sitekick** to prepare the page you need.
+3. In the page form, choose **Create a new page** under **Where should we work?**. Choose a starting template or **Make it uniquely mine**, and provide your business context and instructions.
+4. Choose **Create my draft**. For a conversation task, review the proposal and estimate before **Approve and prepare draft**.
+5. Check saved progress, compare the generated result and approve saving the draft. Review the saved preview before explicitly publishing.
 
-1. Click on the "Site Editor" button next to the site you wish to generate additional pages for.
+For example: “Prepare an About page for our local repair business using these approved facts. Do not invent qualifications, awards or opening dates.”
 
-<figure><img src="../.gitbook/assets/075556DE-97D8-428F-A7A2-AB178DF639C8_1_201_a.jpeg" alt=""><figcaption></figcaption></figure>
-
-2. On the left-hand side menu, scroll over the tab that says "Pages", then click "Page Generator".
-
-<figure><img src="../.gitbook/assets/47EBC128-FFCF-480E-B544-F1C7634F581A_1_201_a.jpeg" alt=""><figcaption></figcaption></figure>
-
-3. Once you are on the "Page Generator", simply choose your page template, type in your Business Name, Description and Industry then click "Generate Landing Page" to create your page that you can then edit, publish and integrate into your site.
-
-<figure><img src="../.gitbook/assets/7EC1FC6E-AA65-4B8A-A881-A6176A86EC15.jpeg" alt=""><figcaption></figcaption></figure>
+See [Review, publish and recover changes](review-publish-and-recover.md) for exact approval controls. A coordinated set of routes and shared styles can instead use [Whole-site projects](whole-site-projects.md). If work is queued or a response times out, [check the saved job](../i-encountered-problems-how-do-i-fix-them/saved-work-and-queues.md) before creating another request.

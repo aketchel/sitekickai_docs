@@ -6,6 +6,9 @@ description: >-
 
 # Reviewing the AI draft
 
+> **Studio is not launched.** These pages describe a proposed Studio experience, not an active customer product. Custom applications and the workflows below are unavailable until announced. For shipped conversational website editing, use [Sitekick CMS](https://docs.sitekick.ai/working-with-our-ai-site-editor/your-sitekick-conversations).
+
+
 When Studio presents a draft, you are looking for two kinds of feedback: what
 is wrong, and what is missing. Both are normal parts of the process.
 

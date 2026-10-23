@@ -1,33 +1,9 @@
 ---
-description: >-
-  Sitekick AI Studio plans and billing — where to see your plan, what happens
-  at renewal, and where to get help with billing.
+description: Studio plan availability is not established while the product remains unlaunched.
 ---
 
 # Plans and Billing
 
-Sitekick AI Studio is available in plans that scale with what your business
-needs. For current pricing and plan details, always check the
-[pricing page](https://www.sitekick.ai/pricing) — it stays up to date as
-plans evolve.
+Studio custom applications remain unlaunched and inactive. No Studio plan purchase, active paid account or included capability is established by these guides. A marketing package or waitlist entry does not activate Studio.
 
-## Choosing a plan
-
-The right plan usually comes down to how much of the work you want Studio to
-do: a single site for one business sits at the simpler end, and multi-site or
-agency usage needs more room.
-
-If you are unsure, start smaller. You can move to a bigger plan when your
-needs grow, and your sites carry over.
-
-## Changing or cancelling
-
-You can change plans at any time from your account. When you move between
-plans, billing adjusts at the next renewal rather than starting the account
-over.
-
-## Billing questions
-
-For billing issues — a charge you do not recognize, an address that needs
-updating, or a receipt you cannot find — contact Sitekick support and the
-team will sort it out with you.
+For the deployed CMS, use your current account billing screen to check membership, website slots and credit allowances. See [CMS subscription help](https://docs.sitekick.ai/frequently-asked-questions-faqs/what-does-your-paid-subscription-include) and [MCP setup requirements](https://docs.sitekick.ai/working-with-our-ai-site-editor/mcp-editing).
