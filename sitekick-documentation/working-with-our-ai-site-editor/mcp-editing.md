@@ -29,20 +29,18 @@ OAuth consent does not approve publication. Sitekick rechecks account access, we
 
 The CMS contract defines these tools. A configured service's discovery response and current permissions determine what you can actually call.
 
-| Task | Exact tool names |
-| --- | --- |
-| Choose and inspect a website | `sitekick_site_list`, `sitekick_site_inspect` |
-| Find/select an owned existing website | `sitekick_site_existing_list`, `sitekick_site_existing_select` |
-| Create a website | `sitekick_site_create` |
-| Request supported existing-site capture | `sitekick_adoption_capture` |
-| Plan and revise a blueprint | `sitekick_project_create`, `sitekick_project_get`, `sitekick_project_update`, `sitekick_project_seal` |
-| Review generation credits | `sitekick_project_estimate` |
-| Start, inspect, cancel or recover generation | `sitekick_job_start`, `sitekick_job_get`, `sitekick_job_cancel`, `sitekick_job_retry` |
-| Prepare and inspect an immutable release | `sitekick_release_prepare`, `sitekick_release_get` |
-| Preview and review | `sitekick_release_preview`, `sitekick_release_review`, `sitekick_release_review_get` |
-| Apply exact approved publication or rollback | `sitekick_release_activate`, `sitekick_release_rollback` |
-| Use reusable templates | `sitekick_template_list`, `sitekick_template_get`, `sitekick_template_create` |
-| Select supported existing integrations | `sitekick_binding_choices`, `sitekick_binding_enroll` |
+- **Choose and inspect a website:** `sitekick_site_list`, `sitekick_site_inspect`
+- **Find/select an owned existing website:** `sitekick_site_existing_list`, `sitekick_site_existing_select`
+- **Create a website:** `sitekick_site_create`
+- **Request supported existing-site capture:** `sitekick_adoption_capture`
+- **Plan and revise a blueprint:** `sitekick_project_create`, `sitekick_project_get`, `sitekick_project_update`, `sitekick_project_seal`
+- **Review generation credits:** `sitekick_project_estimate`
+- **Start, inspect, cancel or recover generation:** `sitekick_job_start`, `sitekick_job_get`, `sitekick_job_cancel`, `sitekick_job_retry`
+- **Prepare and inspect an immutable release:** `sitekick_release_prepare`, `sitekick_release_get`
+- **Preview and review:** `sitekick_release_preview`, `sitekick_release_review`, `sitekick_release_review_get`
+- **Apply exact approved publication or rollback:** `sitekick_release_activate`, `sitekick_release_rollback`
+- **Use reusable templates:** `sitekick_template_list`, `sitekick_template_get`, `sitekick_template_create`
+- **Select supported existing integrations:** `sitekick_binding_choices`, `sitekick_binding_enroll`
 
 ## A safe working sequence
 
