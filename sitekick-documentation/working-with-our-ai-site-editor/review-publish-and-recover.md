@@ -17,6 +17,10 @@ For a conversation task, use **Review result here** to inspect before/after text
 
 ## Save and publish deliberately
 
+![Existing Ready to Review activity item with two Before and After text changes, Use this change checkboxes and Save as draft.](../.gitbook/assets/sitekick-existing-review-approval.webp)
+
+*Production demo capture, 23 October 2026: an existing Activity alternative is Ready to Review. Usage details are redacted. No new generation, draft save, approval or publication was performed for this capture.*
+
 - **New content:** generation prepares a result; saving creates a draft. Where offered, use **Preview for publication**, check the saved preview, then **Publish changes** and confirm. You can also preview and publish in the advanced editor.
 - **Alternative to an existing page:** saving the alternative leaves the original separate. Use **Compare changes** to open **Original** and **Draft** WordPress previews. Check desktop and mobile widths, then use **Publish changes** for a published original or **Save reviewed changes to original page** for an unpublished one. Applying preserves the original URL and publication status.
 - **Direct revision:** if you selected **Update the selected page after review**, approval can apply to that page immediately, including a published page. Review its current status first.

@@ -12,6 +12,10 @@ Whole-site controls appear when enabled for the installation and authorized for 
 
 Under **Website for this tab**, explicitly choose the intended website. Use **Refresh websites** if necessary. An owned existing website may offer **Use this website** before it is registered for this workflow. Selection alone does not import, regenerate or publish the website.
 
+![Expanded Whole-site projects controls with Website for this tab set to Choose a website and a Refresh websites button.](../.gitbook/assets/sitekick-whole-site-projects.webp)
+
+*Production demo capture, 23 October 2026: no website is selected. This shows the selection controls, not a generated candidate or private preview. No website was changed for this capture.*
+
 Each saved job retains its original website. Switching the dropdown does not move an outstanding job to the new selection. Check the target above generation, preview and publication controls.
 
 ## Plan, generate and review
