@@ -14,7 +14,7 @@ Under **Website for this tab**, explicitly choose the intended website. Use **Re
 
 ![Expanded Whole-site projects controls with Website for this tab set to Choose a website and a Refresh websites button.](../.gitbook/assets/sitekick-whole-site-projects.webp)
 
-*Production demo capture, 23 October 2026: no website is selected. This shows the selection controls, not a generated candidate or private preview. No website was changed for this capture.*
+*The expanded Whole-site projects controls let you choose the website for this tab.*
 
 Each saved job retains its original website. Switching the dropdown does not move an outstanding job to the new selection. Check the target above generation, preview and publication controls.
 
