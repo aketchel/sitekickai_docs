@@ -10,7 +10,7 @@ Sign in at [Sitekick CMS](https://cms.sitekick.ai/), open the website you want t
 
 ![Your Sitekick side panel with the saved-conversation selector, Load conversations, New conversation and planning input.](../.gitbook/assets/sitekick-your-sitekick-panel.webp)
 
-*Production demo capture, 23 October 2026: the panel is open beside the page workspace, with no saved conversation loaded. Account details are cropped. No prompt or generation was submitted for this capture.*
+*Your Sitekick is open beside the page workspace, with controls to start a conversation or load a saved one.*
 
 1. Choose **New conversation** for a separate goal, or **Load conversations** and select an entry under **Saved conversation** to resume saved work.
 2. Describe the result you want under **What would you like to accomplish?**, then choose **Plan with Sitekick**.
