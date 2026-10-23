@@ -9,7 +9,7 @@ Sitekick saves background work on the server. Closing a tab or losing a response
 ## Check before retrying
 
 1. Return to the same account and website. For a conversation, choose **Load conversations**, select the saved conversation and **Refresh progress**.
-2. Open **Activity** â†’ **Refresh activity**, or the page's **Changes** and **History**, to check the saved job. For whole-site work, select the original website and use **Refresh status** or **Continue saved work**.
+2. Open **Activity** then choose **Refresh activity**, or the page's **Changes** and **History**, to check the saved job. For whole-site work, select the original website and use **Refresh status** or **Continue saved work**.
 3. Read the state and message. **Queued** means saved and waiting; **running** means processing; **ready** means there is a result to review; a saved/applied draft may still need explicit publication.
 4. For failed work, use the existing job's **Resume saved generation**, **Retry generation** or **Retry / recover job** only after checking its status and the displayed error. Recovery may still use credits for unfinished work; do not assume every retry is free.
 
