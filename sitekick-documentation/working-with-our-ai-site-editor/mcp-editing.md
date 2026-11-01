@@ -8,10 +8,8 @@ MCP lets ChatGPT and compatible assistants read and edit Sitekick website projec
 
 ## Choose the right MCP server
 
-| Server | What it does | Account authorization |
-| --- | --- | --- |
-| `https://mcp.sitekick.ai/mcp` | Work with your Sitekick CMS websites and projects | Sitekick sign-in and OAuth consent required |
-| `https://docs.sitekick.ai/mcp` | Search and read public help articles | Does not grant access to your websites |
+- **Website editing:** `https://mcp.sitekick.ai/mcp` works with your Sitekick CMS websites and projects. Sitekick sign-in and OAuth consent are required.
+- **Public help articles:** `https://docs.sitekick.ai/mcp` searches and reads documentation. It does not grant access to your websites.
 
 The documentation site's **Connect with MCP** control connects the read-only help service. To edit a website, add the website-editing endpoint above separately. This guide covers Sitekick CMS; Studio custom applications remain unlaunched.
 
