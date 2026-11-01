@@ -42,3 +42,5 @@ Keep the website and project/job/release IDs shown with your saved work. **Conti
 For release rollback, enter the **Previously published release ID**, choose **Review rollback**, and review and approve the exact operation. Rollback is permission checked and is not a restoration of every WordPress database change.
 
 See [Saved work and queue troubleshooting](../i-encountered-problems-how-do-i-fix-them/saved-work-and-queues.md) before submitting another generation request.
+
+To work from ChatGPT or another compatible assistant, follow [Connect and edit through MCP](mcp-editing.md). The website-editing connection is separate from the read-only documentation MCP; saved projects and generated content still need their page/preview status checked before publication review.
